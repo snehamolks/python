@@ -1,0 +1,4 @@
+n=10
+for(i=7;i<=n;i++):
+ a=i*3
+ print(a)
